@@ -1,0 +1,28 @@
+name: Site123456
+favicon: null
+layout_spectrum: 0.5147933382540941
+typography_spectrum: 0.8942366717383265
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.33659293223172426
+  lightness: 0.545880958205089
+  saturation: 0.738352904561907
+  rhythmicContrast: 0.880770601099357
+purpose: []
