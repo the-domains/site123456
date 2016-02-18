@@ -1,7 +1,7 @@
 name: Site123456
 favicon: null
 layout_spectrum: 0.5147933382540941
-typography_spectrum: 0.8942366717383265
+typography_spectrum: 0.18637
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.33659293223172426
+  brandStrength: 0.3125
   lightness: 0.545880958205089
   saturation: 0.738352904561907
   rhythmicContrast: 0.880770601099357
